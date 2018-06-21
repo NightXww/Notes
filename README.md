@@ -1,3 +1,3 @@
 # Notes
 ## SQL
-* Select
+* SELECT
